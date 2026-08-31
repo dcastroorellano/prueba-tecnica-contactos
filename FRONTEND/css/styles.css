@@ -1,0 +1,44 @@
+body {
+    background-color: #f5f6f8;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+h1 {
+    color: #212529;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.table th {
+    white-space: nowrap;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.btn {
+    border-radius: 7px;
+}
+
+.form-control,
+.form-select {
+    border-radius: 7px;
+}
+
+#btnGuardar,
+#btnCancelar,
+#btnActualizar {
+    min-width: 150px;
+}
+
+.btn-editar,
+.btn-eliminar {
+    margin-right: 4px;
+}
